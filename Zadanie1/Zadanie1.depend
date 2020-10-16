@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1602840567 source:c:\users\user\desktop\nowy folder (2)\zadanie1\main.cpp
+	<iostream>
+	"uczen.h"
+	<vector>
+
+1602839592 c:\users\user\desktop\nowy folder (2)\zadanie1\uczen.h
+	<iostream>
+
+1602238528 source:c:\users\user\desktop\nowy folder (2)\zadanie1\uczen.cpp
+	"uczen.h"
+
